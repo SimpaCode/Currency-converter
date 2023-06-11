@@ -2,7 +2,7 @@
 
 A simple currency converter web application that allows users to convert between different currencies. Users can input an amount, select the currency they want to convert from, and choose the currency they want to convert to. The application retrieves the latest exchange rates from an API and performs the conversion.
 
-![Currency Converter Screenshot](./screenshot.png)
+![Currency Converter Screenshot](./Screenshot.png)
 
 ## Features
 
